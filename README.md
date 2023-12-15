@@ -5,9 +5,8 @@
 # landing-page
 
 > A project assignment provided by The Odin Project, which is a platform dedicated to teaching web development.
-<br/>
-<br/>
-[Link to this assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
+>
+> [Link to this assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 ## Introduction
 
