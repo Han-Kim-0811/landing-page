@@ -9,6 +9,10 @@ body {
   margin: 0 96px;
 }
 
+.box_align {
+  margin: 0 128px;
+}
+
 /* Styles for header */
 
 .header {
@@ -80,8 +84,7 @@ body {
 }
 
 .section_two .container {
-  justify-content: center;
-  gap: 48px
+  justify-content: space-between;
 }
 
 .section_two .item{
