@@ -72,3 +72,35 @@ body {
 .section_one button:hover{
   background-color: #126af4;
 }
+
+/* Styles for section two */
+
+.section_two h2 {
+  text-align: center;
+}
+
+.section_two .container {
+  justify-content: center;
+  gap: 48px
+}
+
+.section_two .item{
+  width: 180px;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section_two .item p{
+  font-size: 18px;
+  text-align: center;
+}
+
+.section_two .box {
+  width: 180px;
+  height: 180px;
+
+  border: 2px solid #3882F6;
+  border-radius: 8px;
+}
