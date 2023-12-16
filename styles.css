@@ -79,8 +79,13 @@ body {
 
 /* Styles for section two */
 
+.section_two {
+  padding-bottom: 48px;
+}
+
 .section_two h2 {
   text-align: center;
+  color: #1F2937;
 }
 
 .section_two .container {
@@ -106,4 +111,23 @@ body {
 
   border: 2px solid #3882F6;
   border-radius: 8px;
+}
+
+/* Styles for section three */
+
+.section_three {
+  color: #1F2937;
+  background-color: #E5E7EB;
+  padding: 96px 0;
+}
+
+.section_three #quote {
+  font-size: 36px;
+  font-style: italic;
+}
+
+.section_three #quotee_thor {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: right;
 }
